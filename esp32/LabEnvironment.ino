@@ -1,5 +1,5 @@
 void setup() {
-    // Configuración inicial de la ESP32
+    // Configuración de la ESP32
 }
 
 void loop() {
